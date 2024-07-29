@@ -16,8 +16,8 @@
 
 <h2>My Github Stats</h2>
 <a href="https://github.com/mirza-sync">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mirza-sync&theme=outrun&rank_icon=percentile" alt="I'm not the best, but working hard towards it" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=mirza-sync&theme=outrun&rank_icon=percentile" alt="I'm not the best, but working hard towards it" />
 </a>
 <a href="https://github.com/mirza-sync">
-  <img height=200 align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza-sync&theme=outrun&layout=compact&hide=java,blade" alt="Mirza's most used languages" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza-sync&theme=outrun&layout=compact&hide=java,blade" alt="Mirza's most used languages" />
 </a>
