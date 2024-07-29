@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1>🙈 &nbsp;Hi there, I'm Mirza</h1>
+<ul>
+  <li>I'm a software engineer 👨‍💻</li>
+  <li>JS/TS fanboi. Loves to stare at clean codes ⚡</li>
+  <li>Focusing on self-improvement 💪</li>
+</ul>
 
-<!--
-**mirza-sync/mirza-sync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 🚀 &nbsp;Some Tech I Have Used and Learned</h2>
+<ul>
+  <li>React, Next.js, Vue, Angular, Remix, Astro</li>
+  <li>Express, Spring Boot, Laravel</li>
+  <li>Flutter</li>
+  <li>Postgresql, MySQL</li>
+  <li>GraphQL, REST</li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>My Github Stats</h2>
+<a href="https://github.com/mirza-sync">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mirza-sync&theme=outrun&rank_icon=percentile" alt="I'm not the best, but working hard towards it" />
+</a>
+<a href="https://github.com/mirza-sync">
+  <img height=200 align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza-sync&theme=outrun&layout=compact&hide=java,blade" alt="Mirza's most used languages" />
+</a>
